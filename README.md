@@ -44,7 +44,3 @@ This Power BI dashboard includes:
 
 ---
 
-## 📬 How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/adani-stock-analysis.git
